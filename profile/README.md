@@ -1,2 +1,2 @@
 ## Discord
-<a onclick="alert('e')">Join our Discord</a>
+<a href="https://discord.com/invite/jcbNsYauhh" onclick="alert('e')">Join our Discord</a>
